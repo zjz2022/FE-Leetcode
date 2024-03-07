@@ -1,2 +1,1 @@
-# zjz-s-leetcode
-记录leetcode做题笔记
+记录 leetcode 做题笔记
